@@ -1,0 +1,1 @@
+import IconComponent from './iconComponent';
